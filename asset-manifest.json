@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FoodRec/static/css/main.e5141f61.css",
+    "main.js": "/FoodRec/static/js/main.107614ac.js",
+    "static/js/787.39f42472.chunk.js": "/FoodRec/static/js/787.39f42472.chunk.js",
+    "index.html": "/FoodRec/index.html",
+    "main.e5141f61.css.map": "/FoodRec/static/css/main.e5141f61.css.map",
+    "main.107614ac.js.map": "/FoodRec/static/js/main.107614ac.js.map",
+    "787.39f42472.chunk.js.map": "/FoodRec/static/js/787.39f42472.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5141f61.css",
+    "static/js/main.107614ac.js"
+  ]
+}
